@@ -1,0 +1,12 @@
+in_theta1 = 0;
+in_theta2 = (7*pi)/36;
+in_theta1_d1 = 0;
+in_theta2_d1 = 0;
+m1 = .2;
+l1 = .3;
+m2 = .1;
+l2 = .25;
+g = 9.81;
+t_muestreo = .0001;
+path = "modelo_mecanico_doble_pendulo";
+open(path);
